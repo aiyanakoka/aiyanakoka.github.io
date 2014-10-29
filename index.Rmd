@@ -21,4 +21,4 @@ CV [PDF](img/Aiyana_Willard_CV-2014.pdf)
 
 #### Other Information
 
-This is my attempt to make a website using R-markdown. It is under construction. It is meant as a way to teach myself a few new skills, such as version control and markdown, rather than a serious website. A serious website is coming soon. 
+This is my attempt to make a website using R-markdown. It is under construction. This site was created as a way to teach myself a few new skills, such as version control and markdown, not as a serious website. A serious website is coming soon. 
