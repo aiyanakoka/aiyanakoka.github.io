@@ -13,7 +13,7 @@ output:
 
 Current publications
 
-  * Purzycki, B. G., & Willard A. K. (under review). MCI Theory: A guide from the perplexed. Religion Brain and Behaviour. [PDF](img/PurzyckiWillardRBB-Final.pdf)
+  * Purzycki, B. G., & Willard A. K. (forthcoming). MCI Theory: A guide from the perplexed. Religion Brain and Behaviour. [PDF](img/PurzyckiWillardRBB-Final.pdf)
   * Willard, A. K. & Norenzayan A (2013). Cognitive Biases Explain Religious Belief, Paranormal Belief, and Belief in Life’s Purpose. Cognition 129, 379-391. [PDF](img/Cognition_2013_Willard.pdf)
   * Gervais, W., Willard, A. K., Norenzayan, A., & Henrich, J. (2011). The Cultural Transmission of Faith: Why natural intuitions and memory biases are necessary, but insufficient, to explain religious belief. Religion 41, 389-410. [PDF](img/Religion_2011_Gervais.pdf)
 
